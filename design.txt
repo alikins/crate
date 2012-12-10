@@ -1,0 +1,20 @@
+
+data structures
+
+Package 
+	- name
+	- version
+	- release
+	- build date
+	- other?
+	
+	populate()
+	
+PackageInventory
+	- populate
+	- addPackage
+	- delPackage
+	- __in__
+	- 
+
+
